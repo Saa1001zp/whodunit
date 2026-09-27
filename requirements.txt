@@ -1,0 +1,8 @@
+typer==0.27.2
+rich==15.0.0
+pyperclip==1.11.0
+pydantic-settings==2.15.0
+
+# dev
+pytest==9.1.1
+ruff==0.16.9
